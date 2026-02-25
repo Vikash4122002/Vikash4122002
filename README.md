@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Structures & Algorithms (DSA) problem solving, IoT-based projects, Python applications, and exploring Generative AI solutions.  <br>👯 I’m looking to collaborate on Python, Data Science,Data Analysis,Machine Learning,Data  Generative AI, and Open Source projects.  <br>🤝 I’m looking for help with advanced DSA concepts, system design fundamentals, Machine Learning models, and real-world IoT deployments.  <br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning with Python, Generative AI concepts, IoT systems, and Embedded technologies.  <br>💬 Ask me about C++, DSA fundamentals, Python programming, Machine Learning basics, Generative AI concepts, IoT sensors, and electronics.  <br>⚡ Fun fact: I balance coding and fitness—I enjoy solving problems after gym workouts 💪<br>
+💫 About Me:
+🔭 I’m currently working on Data Structures & Algorithms (DSA), Python-based applications, and Deep Learning using PyTorch, with a strong focus on real-world problem solving.
+👯 I’m looking to collaborate on Data Science, Data Analysis, Machine Learning, Deep Learning (ANN & CNN), Python projects, and Open Source contributions.
+🤝 I’m looking for help with advanced DSA concepts, software engineering fundamentals, system design basics, and building scalable ML/DL solutions.
+🌱 I’m currently learning Deep Learning with PyTorch, Machine Learning algorithms, Data Science workflows, Data Analysis techniques, and core Computer Science fundamentals for SDE roles.
+💬 Ask me about Python, Data Structures & Algorithms, Machine Learning, Deep Learning (PyTorch, ANN, CNN), Data Analysis, and problem-solving for software roles.
+⚡ Fun fact: I balance coding and fitness — I enjoy solving tough problems after intense gym workouts 💪
 
 
 ## 🌐 Socials:
